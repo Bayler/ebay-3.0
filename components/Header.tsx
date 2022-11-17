@@ -64,7 +64,7 @@ function Header({}: Props) {
                     </Link>
                 </div>
 
-                <button className='hidden lg:flex items-center space-x-2 w-20'>
+                <button className='hidden lg:flex mx-2 items-center space-x-2 w-20'>
                     <p>Shop by Category</p>
                     <ChevronDownIcon className='h-4 flex-shrink-0'/>
                 </button>
